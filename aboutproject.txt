@@ -1,0 +1,19 @@
+Name- Ganesh Magar
+
+
+Project-
+		Employee Management System with 'CRUD' operations
+
+		E.M.S. web application is to developed with D-jango 
+
+	    framework.
+
+		
+         
+Contribution- Information Gathering(Technical requirement)
+
+			 Created Employee Department accordingly and contributed 
+
+			 in managing and pulling all data from different tables together.
+   
+              
